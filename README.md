@@ -1,6 +1,9 @@
 ﻿# EzBtc.Api
 A .Net Standard client for the ezBtc cryptocurrency API. 
 
+
+[![nuget](https://img.shields.io/nuget/v/EzBtc.Api.svg)](https://www.nuget.org/packages/EzBtc.Api/)
+
 **This is a beta version, meaning the API is feature complete, but may contain bugs.**
 
 Contribute to this project by sending some XɃT my way: 1D8e1MuzW7a7NMvZSAjASJsMd1UonxjFUa 
@@ -8,6 +11,11 @@ Contribute to this project by sending some XɃT my way: 1D8e1MuzW7a7NMvZSAjASJsM
 Or show your support by using my referral link to create your account: 
 https://www.ezbtc.ca/register?referral_code=15rx99hj2aeio
 
+
+## Installation via NuGet
+```
+Install-Package EzBtc.Api
+```
 
 ## Example usage
 
