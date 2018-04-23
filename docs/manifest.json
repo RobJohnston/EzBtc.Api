@@ -1,0 +1,216 @@
+{
+  "homepages": [],
+  "source_base_path": "C:/Users/rob_j/Source/repos/GitHub/EzBtc.Api/docs",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EzBtc.Api.EzBtcClient.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EzBtc.Api.EzBtcClient.html",
+          "hash": "jHs8In+9jfnDTvkDL3g2NA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EzBtc.Api.Models.OrderBook.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EzBtc.Api.Models.OrderBook.html",
+          "hash": "uQ+fYy8lA0Sklc3frMaZ+Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EzBtc.Api.Models.OrderBookEntry.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EzBtc.Api.Models.OrderBookEntry.html",
+          "hash": "9Ew9eRixFdIrbZ0jWuEwDg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EzBtc.Api.Models.Ticker.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EzBtc.Api.Models.Ticker.html",
+          "hash": "ddUFMohloIOURkm8xph72A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EzBtc.Api.Models.Transaction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EzBtc.Api.Models.Transaction.html",
+          "hash": "mxxF4KggHZUTuv/9fDeQnw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EzBtc.Api.Models.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EzBtc.Api.Models.html",
+          "hash": "Kwdzq2iWUv4Yh2TrP50iTA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EzBtc.Api.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EzBtc.Api.html",
+          "hash": "bU1vt4YeLLB8eLLYHkr0pQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html",
+          "hash": "ThoSQPojuUqY8Op0juzDBQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/donation.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/donation.html",
+          "hash": "KxRhdCb0p+WhthhQ9UHoaw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/installation.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/installation.html",
+          "hash": "YWE1qpMFLipc/ELfggNLXA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/intro.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/intro.html",
+          "hash": "wWPQn2tWBk+O7vNEvDolkw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/usage.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/usage.html",
+          "hash": "+5ak828ZRl6nmJo4lhl5Aw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/1D8e1MuzW7a7NMvZSAjASJsMd1UonxjFUa.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/1D8e1MuzW7a7NMvZSAjASJsMd1UonxjFUa.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "3gPPu6ZYZymRILb49ROKdA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": true,
+        "incrementalPhase": "build"
+      },
+      "processors": {
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot suppport incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build"
+        },
+        "ConceptualDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build"
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build"
+        },
+        "ResourceDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor ResourceDocumentProcessor cannot suppport incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build"
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": true,
+        "details": "Can support incremental post processing.",
+        "incrementalPhase": "postProcessing"
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
