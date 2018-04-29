@@ -1,13 +1,13 @@
-﻿using Newtonsoft.Json;
-using Newtonsoft.Json.Serialization;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
 using System.Net;
 using System.Net.Http;
 using System.Threading.Tasks;
-
+using Newtonsoft.Json;
+using Newtonsoft.Json.Serialization;
+    
 namespace EzBtc.Api
 {
     public partial class EzBtcClient : IDisposable
@@ -27,7 +27,7 @@ namespace EzBtc.Api
         /// </summary>
         public EzBtcClient()
         {
-            _url = "https://www.ezbtc.ca/api";
+            _url = "https://www.ezbtc.ca/api/";
             _httpClient.BaseAddress = new Uri(_url);
         }
 
@@ -53,9 +53,11 @@ namespace EzBtc.Api
             // Setup request.
             var urlEncodedArgs = UrlEncode(args);
 
-            var address = string.Format("{0}/{1}?{2}", _url, requestUrl, urlEncodedArgs);
-
-            var req = new HttpRequestMessage(HttpMethod.Get, address);
+            var req = new HttpRequestMessage()
+            {
+                Method = HttpMethod.Get,
+                RequestUri = new Uri(_httpClient.BaseAddress, string.Format("{0}?{1}", requestUrl, urlEncodedArgs))
+            };
 
             // Send request and deserialize response.
             return await SendRequestAsync<T>(req).ConfigureAwait(false);
