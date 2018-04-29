@@ -2,14 +2,14 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.0</TargetFramework>
-    <Version>0.1.0-beta</Version>
+    <Version>1.0.0</Version>
     <Description>A .Net Standard client for the ezBtc cryptocurrency API.</Description>
     <Copyright>Copyright © 2018 Rob Johnston</Copyright>
     <PackageLicenseUrl>https://github.com/RobJohnston/EzBtc.Api/blob/master/LICENSE</PackageLicenseUrl>
-    <PackageProjectUrl>https://github.com/RobJohnston/EzBtc.Api</PackageProjectUrl>
+    <PackageProjectUrl>https://robjohnston.github.io/EzBtc.Api/</PackageProjectUrl>
     <RepositoryType></RepositoryType>
-    <PackageReleaseNotes>This is a beta version, meaning the API is feature complete, but may contain bugs.</PackageReleaseNotes>
-    <PackageTags>api-client; cryptocurrency; bitcoin; litecoin; ether; ezbtc</PackageTags>
+    <PackageReleaseNotes></PackageReleaseNotes>
+    <PackageTags>api-client; cryptocurrency; exchange; bitcoin; litecoin; ether; ezbtc</PackageTags>
     <RepositoryUrl>https://github.com/RobJohnston/EzBtc.Api</RepositoryUrl>
     <Authors>rob_johnston</Authors>
     <Company />
