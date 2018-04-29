@@ -9,7 +9,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EzBtc.Api.EzBtcClient.html",
-          "hash": "jHs8In+9jfnDTvkDL3g2NA=="
+          "hash": "3fsttmWhONL+mzt8JRkQVg=="
         }
       },
       "is_incremental": true,
@@ -21,7 +21,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EzBtc.Api.Models.OrderBook.html",
-          "hash": "uQ+fYy8lA0Sklc3frMaZ+Q=="
+          "hash": "MF8IllwSXkYtXBtsWikgLw=="
         }
       },
       "is_incremental": true,
@@ -33,7 +33,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EzBtc.Api.Models.OrderBookEntry.html",
-          "hash": "9Ew9eRixFdIrbZ0jWuEwDg=="
+          "hash": "58RiS2o/fL5RMl7qKM2kUA=="
         }
       },
       "is_incremental": true,
@@ -45,7 +45,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EzBtc.Api.Models.Ticker.html",
-          "hash": "ddUFMohloIOURkm8xph72A=="
+          "hash": "HWc+4w4vYSt5yftNZC2aLA=="
         }
       },
       "is_incremental": true,
@@ -57,7 +57,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EzBtc.Api.Models.Transaction.html",
-          "hash": "mxxF4KggHZUTuv/9fDeQnw=="
+          "hash": "E75NY3N4WQ4sBa8+4wRIdQ=="
         }
       },
       "is_incremental": true,
@@ -69,7 +69,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EzBtc.Api.Models.html",
-          "hash": "Kwdzq2iWUv4Yh2TrP50iTA=="
+          "hash": "VzU2k+gh8zliqpcMJCfOjw=="
         }
       },
       "is_incremental": true,
@@ -81,7 +81,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EzBtc.Api.html",
-          "hash": "bU1vt4YeLLB8eLLYHkr0pQ=="
+          "hash": "t1WJMvkPEzcKIt6s2LOkTQ=="
         }
       },
       "is_incremental": true,
@@ -93,10 +93,10 @@
       "output": {
         ".html": {
           "relative_path": "api/index.html",
-          "hash": "ThoSQPojuUqY8Op0juzDBQ=="
+          "hash": "Q5+0zHKVyxJ74t8jvRCQMA=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -105,7 +105,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/donation.html",
-          "hash": "KxRhdCb0p+WhthhQ9UHoaw=="
+          "hash": "EfSZ0zG+ABth7MleyVZrdQ=="
         }
       },
       "is_incremental": true,
@@ -117,7 +117,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/installation.html",
-          "hash": "YWE1qpMFLipc/ELfggNLXA=="
+          "hash": "EGq6My1/YNUXW4wXEBCP7g=="
         }
       },
       "is_incremental": true,
@@ -129,10 +129,10 @@
       "output": {
         ".html": {
           "relative_path": "articles/intro.html",
-          "hash": "wWPQn2tWBk+O7vNEvDolkw=="
+          "hash": "FaQxFQeWAnZc2Zcq3RJlRw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -141,7 +141,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/usage.html",
-          "hash": "+5ak828ZRl6nmJo4lhl5Aw=="
+          "hash": "kg85T2xewWuSg/piJNVC/A=="
         }
       },
       "is_incremental": true,
@@ -164,10 +164,10 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "3gPPu6ZYZymRILb49ROKdA=="
+          "hash": "lZUkzRaZYP/Nfta2kp2DcA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     }
   ],
@@ -178,9 +178,9 @@
         "incrementalPhase": "build"
       },
       "processors": {
-        "TocDocumentProcessor": {
+        "ResourceDocumentProcessor": {
           "can_incremental": false,
-          "details": "Processor TocDocumentProcessor cannot suppport incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "details": "Processor ResourceDocumentProcessor cannot suppport incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
           "incrementalPhase": "build"
         },
         "ConceptualDocumentProcessor": {
@@ -191,9 +191,9 @@
           "can_incremental": true,
           "incrementalPhase": "build"
         },
-        "ResourceDocumentProcessor": {
+        "TocDocumentProcessor": {
           "can_incremental": false,
-          "details": "Processor ResourceDocumentProcessor cannot suppport incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "details": "Processor TocDocumentProcessor cannot suppport incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
           "incrementalPhase": "build"
         }
       }
