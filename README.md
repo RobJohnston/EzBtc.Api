@@ -1,10 +1,7 @@
 ﻿# EzBtc.Api
 A .Net Standard client for the ezBtc cryptocurrency API. 
 
-
 [![nuget](https://img.shields.io/nuget/v/EzBtc.Api.svg)](https://www.nuget.org/packages/EzBtc.Api/)
-
-**This is a beta version, meaning the API is feature complete, but may contain bugs.**
 
 An account is not required to access the public API methods. 
 However, if you do create an account, please use my referral code (15rx99hj2aeio) when you [register](https://www.ezbtc.ca/register?referral_code=15rx99hj2aeio). 
