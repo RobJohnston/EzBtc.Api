@@ -1,10 +1,10 @@
 ﻿# EzBtc.Api
 A .Net Standard client for the ezBtc cryptocurrency API. 
 
-## Warning!
-I've been waiting to get my money out of this exchange for over 4 and a half months.  Lots of other people have been having problems too.  Use at your own risk!
+## WARNING!
+I've been waiting to get my money out of this exchange for over 6 months.  Lots of other people have been having problems too.
 
-At this time, I cannot recommend that anybody uses this exchange.
+At this time, I DO NOT recommend that you use this exchange.
 
 [![nuget](https://img.shields.io/nuget/v/EzBtc.Api.svg)](https://www.nuget.org/packages/EzBtc.Api/)
 ![Downloads](https://img.shields.io/nuget/dt/EzBtc.Api.svg)
