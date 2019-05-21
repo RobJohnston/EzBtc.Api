@@ -11,8 +11,9 @@ At this time, I DO NOT recommend that you use this exchange.
 
 
 An account is not required to access the public API methods. 
-However, if you do create an account, please use my referral code (15rx99hj2aeio) when you [register](https://www.ezbtc.ca/register?referral_code=15rx99hj2aeio). 
-It's an easy way to give back to this project at no cost to you.
+~~However, if you do create an account, please use my referral code (15rx99hj2aeio) when you [register](https://www.ezbtc.ca/register?referral_code=15rx99hj2aeio). 
+It's an easy way to give back to this project at no cost to you.~~
+I don't want anything to do with this exchange.  I suggest you stay clear.
 
 ## Project documentation
 
