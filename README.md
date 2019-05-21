@@ -29,4 +29,4 @@ https://robjohnston.github.io/EzBtc.Api/
 
 ## Donation address
 
-Bitcoin: [1D8e1MuzW7a7NMvZSAjASJsMd1UonxjFUa](https://robjohnston.github.io/EzBtc.Api/articles/donation.html)
+~~Bitcoin: [1D8e1MuzW7a7NMvZSAjASJsMd1UonxjFUa](https://robjohnston.github.io/EzBtc.Api/articles/donation.html)~~
