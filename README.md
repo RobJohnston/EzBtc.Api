@@ -2,9 +2,9 @@
 A .Net Standard client for the ezBtc cryptocurrency API. 
 
 ## ⚠️ WARNING! ⚠️ ##
-I've been waiting to get my money out of this exchange for over 9 months.  Lots of other people have been having problems too.  Do a search (Twitter, Reddit, etc) to see for yourself.
+I've been waiting to get my money out of this exchange for over 10 months.  Lots of other people are having problems too.  Do a search (Twitter, Reddit, etc) to see for yourself.
 
-At this time, I DO NOT recommend that you use this exchange.
+At this time, I DO NOT recommend that you use this exchange and I've archived the NuGet package.
 
 [![nuget](https://img.shields.io/nuget/v/EzBtc.Api.svg)](https://www.nuget.org/packages/EzBtc.Api/)
 ![Downloads](https://img.shields.io/nuget/dt/EzBtc.Api.svg)
@@ -21,7 +21,7 @@ https://robjohnston.github.io/EzBtc.Api/
 
 ## My related projects
 
-* [QuadrigaCX.Api](https://github.com/RobJohnston/QuadrigaCX.Api)
+* ~~[QuadrigaCX.Api](https://github.com/RobJohnston/QuadrigaCX.Api)
 * [CoinField.Api](https://github.com/RobJohnston/CoinField.Api)
 * [Ndax.Api](https://github.com/RobJohnston/Ndax.Api) and [AlphaPoint.Api](https://github.com/RobJohnston/alphapoint.api/)
 * [Coinsquare.Api](https://github.com/RobJohnston/Coinsquare.Api)
